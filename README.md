@@ -5,8 +5,7 @@ This project is a Python Colab pipeline for stock valuation. It fetches historic
 
 ```text
 ├── Company Stock Valuation.ipynb    # Main Colab notebook with analysis pipeline
-├── README.md               # Project overview and instructions
-└── requirements.txt        # Python dependencies
+└── README.md               # Project overview and instructions
 ```
 
 ## 🛠️ Requirements
