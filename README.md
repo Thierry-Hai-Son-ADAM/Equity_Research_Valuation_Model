@@ -30,12 +30,9 @@ pip install -r requirements.txt
 1. **Clone** the repository:
 
    ```bash
+   git clone [https://github.com/](https://github.com/)<your-username>/EquityValuator.git
+   cd EquityValuator
    ```
-
-git clone [https://github.com/](https://github.com/)<your-username>/EquityValuator.git
-cd EquityValuator
-
-```
 
 2. **Open** `EquityValuator.ipynb` in Google Colab or Jupyter.
 
